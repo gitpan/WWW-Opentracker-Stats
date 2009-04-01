@@ -1,5 +1,8 @@
 Revision history for Perl extension WWW::Opentracker::Stats.
 
+1.11    Wed Apr  1 10:01:49 2009
+        - Fix: Added missing dependency Class::Data::Inheritable
+
 1.10    Mon Mar 30 17:10:44 2009
         - Changed package namespace from Net::Opentracker::Stats to
             WWW::Opentracker::Stats.

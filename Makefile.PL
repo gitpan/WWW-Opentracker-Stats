@@ -10,6 +10,7 @@ WriteMakefile(
         'Bit::Vector'               => 0,
         'Carp'                      => 0,
         'Class::Accessor::Fast'     => 0,
+        'Class::Data::Inheritable'  => 0,
         'Convert::Bencode'          => 0,
         'LWP::UserAgent'            => 0,
         'Params::Validate'          => 0,
